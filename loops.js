@@ -24,7 +24,7 @@ var myResume=[
                             "Others":"Co-ordinator of National Level Symposium"}},
     {"Extra Curricular Activities":{"Sports":["Captian of College Cricket Team","Athelete"],
                                    "Others":"Active member of NSS crew in college"}},
-    {"Declaration":"I hearby declare that all the above details about me are true tu my knowledge"}
+    {"Declaration":"I hearby declare that all the above details about me are true to my knowledge"}
 
 ]
 
