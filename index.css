@@ -1,0 +1,21 @@
+body{
+    display: flex;
+    margin: 80px 250px 80px 250px;
+    background-color:  whitesmoke;
+    column-gap: 5px;
+    row-gap: 70px;
+    text-align: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+i{color: steelblue;}
+div{
+    padding: 30px 30px;
+    background-color: white;
+    flex-basis: 31.5%;
+    
+}
+a{
+    text-decoration: underline;
+}
